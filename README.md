@@ -2,4 +2,4 @@
 
 Frontend:
 ---
-React: https://github.com/dmmuralitharan/todo-api 
+React: https://github.com/dmmuralitharan/todos
